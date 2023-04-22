@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/macarun-shop/static/css/main.82102896.css",
+    "main.js": "/macarun-shop/static/js/main.79684b84.js",
+    "index.html": "/macarun-shop/index.html",
+    "main.82102896.css.map": "/macarun-shop/static/css/main.82102896.css.map",
+    "main.79684b84.js.map": "/macarun-shop/static/js/main.79684b84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82102896.css",
+    "static/js/main.79684b84.js"
+  ]
+}
